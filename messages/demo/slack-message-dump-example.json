@@ -1,0 +1,82 @@
+[
+  {
+      "type": "message",
+      "text": "Morning Alex! Just finished reviewing the document. I applied some minor changes and updated the formulas in columns Z to AA. Make sure to check them out!",
+      "ts": "1641312494.353700",
+      "files": [
+          {
+              "id": "G0678B2NKP8",
+              "created": 1642024012,
+              "timestamp": 1642024012,
+              "name": "Market_Analysis_Report_Q1_2024.xlsx",
+              "title": "Market Analysis Report Q1 2024.xlsx",
+              "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "filetype": "xlsx",
+              "pretty_type": "Excel Spreadsheet",
+              "user": "U058N6C3K20",
+              "user_team": "T9XLR8P4G",
+              "editable": false,
+              "size": 512345,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": true,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.workspace.com/files-pri/T9XLR8P4G-G0678B2NKP8/market_analysis_report_q1_2024.xlsx?t=xoxe-245875102529-7544515790421-7461695180783-g1e79f0279bc0b2125ad2a21cbce5f14",
+              "url_private_download": "https://files.workspace.com/files-pri/T9XLR8P4G-G0678B2NKP8/download/market_analysis_report_q1_2024.xlsx?t=xoxe-245875102529-7544515790421-7461695180783-g1e79f0279bc0b2125ad2a21cbce5f14",
+              "media_display_type": "unknown",
+              "converted_pdf": "https://files.workspace.com/files-tmb/T9XLR8P4G-G0678B2NKP8-5b67185450/market_analysis_report_q1_2024_converted.pdf?t=xoxe-245875102529-7544515790421-7461695180783-g1e79f0279bc0b2125ad2a21cbce5f14",
+              "thumb_pdf": "https://files.workspace.com/files-tmb/T9XLR8P4G-G0678B2NKP8-5b67185450/market_analysis_report_q1_2024_thumb_pdf.png?t=xoxe-245875102529-7544515790421-7461695180783-g1e79f0279bc0b2125ad2a21cbce5f14",
+              "thumb_pdf_w": 940,
+              "thumb_pdf_h": 1220,
+              "permalink": "https://yourcompany.slack.com/files/U058N6C3K20/G0678B2NKP8/market_analysis_report_q1_2024.xlsx",
+              "permalink_public": "https://slack-files.com/T9XLR8P4G-G0678B2NKP8-ffee6de082",
+              "is_starred": false,
+              "has_rich_preview": false,
+              "file_access": "visible"
+          }
+      ]
+  },
+  {
+    "type": "message",
+    "text": "Hello team! I've just updated the budget forecast for the next quarter based on our latest financial analysis. Please review the projections and provide your feedback.",
+    "ts": "1641230049.351100",
+    "files": [
+        {
+            "id": "B1234C5D6789",
+            "created": 1643005019,
+            "timestamp": 1643005019,
+            "name": "2024_Q2_Budget_Forecast.xlsx",
+            "title": "2024 Q2 Budget Forecast.xlsx",
+            "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+            "filetype": "xlsx",
+            "pretty_type": "Excel Spreadsheet",
+            "user": "U1234567890",
+            "user_team": "T0987654321",
+            "editable": false,
+            "size": 634256,
+            "mode": "hosted",
+            "is_external": false,
+            "external_type": "",
+            "is_public": true,
+            "public_url_shared": false,
+            "display_as_bot": false,
+            "username": "",
+            "url_private": "https://files.company.com/files-pri/T0987654321-B1234C5D6789/2024_q2_budget_forecast.xlsx?t=xoxe-267985102539-8644515790531-8561695180893-g2f79g0279bc1c3132bd3b32cbdf6g25",
+            "url_private_download": "https://files.company.com/files-pri/T0987654321-B1234C5D6789/download/2024_q2_budget_forecast.xlsx?t=xoxe-267985102539-8644515790531-8561695180893-g2f79g0279bc1c3132bd3b32cbdf6g25",
+            "media_display_type": "unknown",
+            "converted_pdf": "https://files.company.com/files-tmb/T0987654321-B1234C5D6789-6c78195461/2024_q2_budget_forecast_converted.pdf?t=xoxe-267985102539-8644515790531-8561695180893-g2f79g0279bc1c3132bd3b32cbdf6g25",
+            "thumb_pdf": "https://files.company.com/files-tmb/T0987654321-B1234C5D6789-6c78195461/2024_q2_budget_forecast_thumb_pdf.png?t=xoxe-267985102539-8644515790531-8561695180893-g2f79g0279bc1c3132bd3b32cbdf6g25",
+            "thumb_pdf_w": 950,
+            "thumb_pdf_h": 1230,
+            "permalink": "https://yourworkspace.slack.com/files/U1234567890/B1234C5D6789/2024_q2_budget_forecast.xlsx",
+            "permalink_public": "https://slack-files.com/T0987654321-B1234C5D6789-ggfe7hf083",
+            "is_starred": false,
+            "has_rich_preview": false,
+            "file_access": "visible"
+        }
+    ]
+  }
+]

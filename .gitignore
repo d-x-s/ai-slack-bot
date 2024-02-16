@@ -1,0 +1,7 @@
+bot/venv-slack-bot/
+
+.env
+
+data/production/
+messages/production/
+messages/production.zip
